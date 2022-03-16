@@ -30,42 +30,6 @@ To get a local copy up and running follow these simple example steps.
   * Run ```cd README/```
 
 
-### Install
-
-* install Webhint linter
-  * Run ```npm install --save-dev hint@6.x```
-  
-* install Stylelint linter
-  * Run ```npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x```
-
-* install ESLint linter
-  * Run ```npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x```
-
-* install gulp
-  * Run ```touch gulpfile.js```
-  * Run ```npm install gulp --save-dev```
-  * Run ```npm install gulp-autoprefixer --save-dev```
-
-### Usage
-
-### Run tests
-
-* run Webhint linter
-    * Run ```npx hint```. on the root of your directory of your project.
-
-* Run Stylelint linter
-  * Run ```npx stylelint "**/*.{css,scss}"``` on the root of your directory of your project.
-
-* Run ESLint linter
-  * Run ```npx eslint```. on the root of your directory of your project.
-
-* Run gulp
-  * Run ```gulp <name-of-task>``` on the root of your directory of your project.
-
-
-### Deployment
-
-
 
 ## Authors
 
