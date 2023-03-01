@@ -132,7 +132,7 @@
     "micromatch": "^4.0.4",
     "min-indent": "^1.0.1",
     "minimatch": "^3.1.2",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "minimist-options": "^4.1.0",
     "ms": "^2.1.2",
     "node-releases": "^2.0.2",
